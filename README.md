@@ -1,6 +1,6 @@
 # NLP-for-Patient-Notes
 
-Edited between May 2021 and April 2022 as part of The Johns Hopkins Wilmer Eye Institute.
+Edited between May 2021 and April 2022 as part of The Johns Hopkins Wilmer Eye Institute. All code was written in Python3
 
 The two main tasks of the follow-up natural language processing project are: 
 
